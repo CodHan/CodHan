@@ -1,7 +1,4 @@
-## Hey 👋, This is 짜릿한 한은범
-[![Gmail Badge](https://img.shields.io/badge/-qpscm662@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:qpscm662@naver.com)](mailto:qpscm662@naver.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-https://hanco.tistory.com/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://hanco.tistory.com//)](https://www.linkedin.com/in/https://hanco.tistory.com//) [![Github Badge](https://img.shields.io/badge/-CodHan-grey?style=flat&logo=github&logoColor=white&link=https://github.com/CodHan/)](https://www.github.com/CodHan/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://www.porifo.com/create/19f784d2-aeee-4848-98df-211afcbb4fd0/)](https://www.porifo.com/create/19f784d2-aeee-4848-98df-211afcbb4fd0/) <p align='left'>신입 프론트엔드 개발자 입니다.
-React, Next를 주로 사용 합니다.</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&repeat=false&random=false&width=435&lines=Welcome+To+Beom's+GitHub)](https://git.io/typing-svg)
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=CodHan alt=CodHan /> </p>
 
