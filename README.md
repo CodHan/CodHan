@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&repeat=false&random=false&width=750&height=80&lines=Welcome+To+Beom's+GitHub)](https://git.io/typing-svg)
-<p align=left> <img src=https://komarev.com/ghpvc/?username=CodHan alt=CodHan /> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&random=false&width=1000&height=80&lines=Welcome+To+Beom's+GitHub+(%E2%8C%90%E2%96%A0_%E2%96%A0)" alt="Typing SVG" /></a>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=CodHan&show_icons=true&include_all_commits=true)](https://github.com/CodHan/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodHan&layout=compact)](https://github.com/CodHan/github-readme-stats)
