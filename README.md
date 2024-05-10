@@ -5,25 +5,16 @@
 
 <div align=center> 
   <p>
-  <a href="https://mi-dev-log.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:argerdle@naver.com" target="_blank"><img src="https://img.shields.io/badge/argerdle@naver.com-6DB33F?style=flat-square&logo=naver&logoColor=white"/></a>
+  <a href="https://han-co.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="mailto:qpscm662@naver.com" target="_blank"><img src="https://img.shields.io/badge/argerdle@naver.com-6DB33F?style=flat-square&logo=naver&logoColor=white"/></a>
   
 </p>
 <p>
- 기록이 습관화 되어 있는 백엔드 개발자 장미입니다.<br>
- 새롭게 습득한 지식들을 사용하는 것뿐만 아니라 기술 블로그에 포스팅하는 것으로 한번 더 정리를 하고 제 것으로 만들어냅니다.<br>
- 늘 꾸준히 TIL을 작성하여 현재 상태와 문제점을 직시하고 해결하려고 노력합니다. ✨ <br/><br/>
+ 콘솔에서 짜릿함을 찾는 프론트엔드 개발자 한은범입니다.<br>
+ 개발의 매력은 고객의 니즈를 해소할 수 있는 "기술자"라는 점이라고 생각합니다.<br>
+ 지속적인 발전을 위해 스터디, 컨퍼런스와 같은 개발 문화에 긍적적으로 참여합니다. ✨ <br/><br/>
 </p>
 
-<!-- 백준 티어 -->
-<p>
-  <a href="https://solved.ac/klettermi">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=klettermi" />
-  </a>
-</p>
-
-![mi's GitHub stats](https://github-readme-stats.vercel.app/api?username=klettermi&show_icons=true&theme=highcontrast)
-  
 <br> 
 
 ## 👩🏻‍💻 Tech Stack
