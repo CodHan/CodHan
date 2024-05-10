@@ -15,7 +15,7 @@
  지속적인 발전을 위해 스터디, 컨퍼런스와 같은 개발 문화에 긍적적으로 참여합니다. ✨ <br/><br/>
 </p>
 
-
+[![wakatime](https://wakatime.com/badge/user/3b78f42b-d932-4c9b-93ee-2784f15d9b5f.svg?style=for-the-badge)](https://wakatime.com/@3b78f42b-d932-4c9b-93ee-2784f15d9b5f)
 
 ## 👩🏻‍💻 Tech Stack
 <p>
