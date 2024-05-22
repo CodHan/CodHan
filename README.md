@@ -1,7 +1,7 @@
 <div align=center> 
   <p>
   <a href="https://han-co.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:qpscm662@naver.com" target="_blank"><img src="https://img.shields.io/badge/argerdle@naver.com-6DB33F?style=flat-square&logo=naver&logoColor=white"/></a>
+  <a href="mailto:qpscm662@naver.com" target="_blank"><img src="https://img.shields.io/badge/qpscm662@naver.com-6DB33F?style=flat-square&logo=naver&logoColor=white"/></a>
   
 </p>
 <p>
